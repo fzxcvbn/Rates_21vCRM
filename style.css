@@ -1,1 +1,26 @@
-
+p, h1, h2, h3 {
+    font-family: "Montserrat", sans-serif;
+}
+.check-mark-rates-21vcrm {
+    width: 35px;
+}
+.cross-rates-21vcrm {
+    width: 20px;
+}
+.conteiner-name-rates-21vcrm {
+    background-color: rgb(242, 242, 242);
+    margin: 10px;
+    padding: 20px;
+}
+.mini-conteiner-name-rates-21vcrm, .h1-rates-21vcrm, .p-title-21vcrm {
+    text-align: center;
+}
+.conteiner-name-main-rates-21vcrm, .element-rates-21vcrm {
+    display: flex;
+}
+.img-rates-21vcrm {
+    width: 35px;
+    height: 20px;
+    margin-top: 15px;
+    margin-left: 5px;
+}
