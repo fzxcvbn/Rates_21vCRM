@@ -11,16 +11,25 @@ p, h1, h2, h3 {
     background-color: rgb(242, 242, 242);
     margin: 10px;
     padding: 15px;
+    height: 5530px;
 }
+
 .mini-conteiner-name-rates-21vcrm, .h1-rates-21vcrm, .p-title-21vcrm {
     text-align: center;
 }
-.conteiner-name-main-rates-21vcrm, .element-rates-21vcrm {
+.conteiner-name-main-rates-21vcrm {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.element-rates-21vcrm {
     display: flex;
 }
 .img-rates-21vcrm {
-    width: 30px;
-    height: 15px;
-    margin-top: 10px;
+    width: 40px;
+    height: 50px;
     margin-left: auto;
+}
+.p-title-rates-21vcrm {
+    text-align: center;
 }
