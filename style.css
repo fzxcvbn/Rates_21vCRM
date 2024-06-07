@@ -11,7 +11,7 @@ p, h1, h2, h3 {
     background-color: rgb(242, 242, 242);
     margin: 10px;
     padding: 15px;
-    height: 5530px;
+    height: 4100px;
 }
 
 .mini-conteiner-name-rates-21vcrm, .h1-rates-21vcrm, .p-title-21vcrm {
@@ -25,11 +25,17 @@ p, h1, h2, h3 {
 .element-rates-21vcrm {
     display: flex;
 }
-.img-rates-21vcrm {
+.img-rates-21vcrm, .empty-img-rates-21vcrm {
     width: 40px;
-    height: 50px;
+    height: 40px;
     margin-left: auto;
 }
 .p-title-rates-21vcrm {
     text-align: center;
+}
+p {
+    margin-bottom: -3px;
+}
+.empty-img-rates-21vcrm {
+    visibility: hidden;
 }
