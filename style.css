@@ -14,7 +14,7 @@ p, h1, h2, h3 {
     height: 4100px;
 }
 
-.mini-conteiner-name-rates-21vcrm, .h1-rates-21vcrm, .p-title-21vcrm {
+.mini-conteiner-name-rates-21vcrm, .h1-rates-21vcrm, .p-title-rates-21vcrm {
     text-align: center;
 }
 .conteiner-name-main-rates-21vcrm {
@@ -30,12 +30,28 @@ p, h1, h2, h3 {
     height: 40px;
     margin-left: auto;
 }
-.p-title-rates-21vcrm {
-    text-align: center;
+.img-1arrow-rates-21vcrm, .img-2arrow-rates-21vcrm {
+    width: 40px;
+    height: 40px;
+    margin-top: 15px;
+    cursor: pointer;
+    transform: rotate(90deg);
+    transition: transform 0.5s;
+}
+.img-2arrow-rates-21vcrm {
+    display: none;
 }
 p {
     margin-bottom: -3px;
 }
 .empty-img-rates-21vcrm {
     visibility: hidden;
+}
+.conteiner-element-rates-21vcrm {
+    display: none;
+}
+.element-title-rates-21vcrm {
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
