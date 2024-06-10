@@ -61,14 +61,3 @@ p {
 .p-title-rates-21vcrm, .order-implementation-rates-21vcrm {
     font-weight: bold;
 }
-.order-implementation-rates-21vcrm {
-    background-color: #30d4c7;
-    border-radius: 30px;
-    color: white;
-    width: 250px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    height: 40px;
-    margin-left: 50px;
-}
