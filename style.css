@@ -11,9 +11,9 @@ p, h1, h2, h3, .order-implementation-rates-21vcrm {
     background-color: rgb(242, 242, 242);
     margin: 10px;
     padding: 15px;
-    height: 4200px;
+    height: 4500px;
 }
-.mini-conteiner-name-rates-21vcrm, .h1-rates-21vcrm, .p-title-rates-21vcrm {
+.mini-conteiner-name-rates-21vcrm, .h1-rates-21vcrm {
     text-align: center;
 }
 .conteiner-name-main-rates-21vcrm {
@@ -24,10 +24,12 @@ p, h1, h2, h3, .order-implementation-rates-21vcrm {
 .element-rates-21vcrm {
     display: flex;
 }
-.img-rates-21vcrm, .empty-img-rates-21vcrm {
+.img-rates-21vcrm{
     width: 40px;
     height: 40px;
     margin-left: auto;
+    margin-top: 5px;
+    margin-right: 10px;
 }
 .margin-left-rates-21vcrm {
     margin-left: auto;
@@ -61,12 +63,12 @@ p {
 .p-title-rates-21vcrm, .order-implementation-rates-21vcrm {
     font-weight: bold;
 }
-.img-gal-rates-21vcrm{
-    width: 40px;
-    height: 40px;
-    margin-left: auto;
-    margin-top: 5px;
-    margin-right: 10px;
+.p-title-rates-21vcrm {
+    margin-top: 10px;
+    background-color: white;
+    border-radius: 40px;
+    padding-left: 30px;
+    padding-bottom: 5px;
 }
 .img-minus-rates-21vcrm {
     width: 20px; 
@@ -75,4 +77,16 @@ p {
     margin-right: 10px;
     margin-top: 20px
 }
-
+.img-batary-rates-21vcrm {
+    width: 40px;
+    height: 40px;
+    margin-left: auto;
+    margin-top: 5px;
+    margin-right: 10px;
+}
+.special-element {
+    padding-bottom: 15px;
+}
+.special-batary {
+    margin-top: 15px;
+}
