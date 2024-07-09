@@ -12,7 +12,9 @@ p, h1, h2, h3, .order-implementation-rates-21vcrm {
     margin: 8px;
     padding: 10px;
     border-radius: 15px;
-    height: 5250px;
+    height: auto;
+    margin-bottom: auto;
+    min-width: 350px;
 }
 .mini-conteiner-name-rates-21vcrm, .h1-rates-21vcrm {
     text-align: center;
@@ -98,4 +100,7 @@ p {
 }
 .special-batary {
     margin-top: 15px;
+}
+.conteiner-name-rates-21vcrm details summary {
+    cursor: pointer;
 }
